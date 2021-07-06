@@ -3,7 +3,7 @@
 这是一个大的倒计时，表明大的💊来了
 
 ## Depend
-This project is rebuilt on [https://github.com/Wandmalfarbe/evangelion-clock-screensaver](evangelion-clock-screensaver) . 
+This project is rebuilt on [evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) . 
 
 ## License
 
