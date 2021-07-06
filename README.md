@@ -4,6 +4,10 @@
 
 UPDATE: 修复了字体显示问题。
 
+## Distributer
+
+[TEST173209](https://github.com/TEST173209)
+
 ## Depend
 This project is rebuilt on [evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) . 
 
